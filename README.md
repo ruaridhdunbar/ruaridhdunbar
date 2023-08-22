@@ -4,7 +4,6 @@
 - I'm a Software Engineer working at the BBC
 - I'm on the Voice News team, responsible primarily for the Interactive News skill on Alexa
 - I have 5 years of experience
-- Outside of work I enjoy football, gaming and spending time with my family and friends
 
 ### 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,jest,aws,gcp,github,vscode,jenkins,postman)](https://skillicons.dev)
