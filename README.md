@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+# 👨‍💻 About Me
+
+
+# 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,jest,aws,gcp,github,vscode,jenkins,postman)](https://skillicons.dev)
 
 <!--
 **ruaridhdunbar/ruaridhdunbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
