@@ -1,10 +1,12 @@
 ### Hello 👋
 
 ### 👨‍💻 About Me
-- I'm a Software Engineer working at the BBC
-- I work on the Sounds Off-Product team, surfacing Sounds metadata to internal and external partners.
-- I have previously worked on the Voice News team - responsible primarily for the Interactive News skill on Alexa - and the Insights team, collating and analysing data to power decision making for conversational experiences.
-- I'm based in Glasgow, and have been working here from September 2018 - present.
+I'm a Software Engineer working at VoCoVo (2024-present)
+
+I previously worked at the BBC (2018-2024):
+- Sounds Off-Product team - Surfaced Sounds metadata to internal and external partners.
+- Voice News team -  Developed the Interactive News skill on Alexa
+- Insights team - Collated and analysed data to power decision making for conversational experiences.
 
 ### 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,jest,aws,gcp,github,vscode,jenkins,postman)](https://skillicons.dev)
